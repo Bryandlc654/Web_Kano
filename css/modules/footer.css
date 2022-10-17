@@ -57,8 +57,8 @@
   height: 2.5rem;
   margin:.7rem 0;
   padding:1rem;
-  border-radius: .5rem;
-  background: #eee;
+  background-color: #fff;
+  border: none;
   font-size: .9rem;
   text-transform: none;
   font-weight: 400;
