@@ -52,8 +52,8 @@
 .footer .box-container .box .share a:hover{
   color:#000;
 }
-.footer .box-container .box .phone{
-  width: 100%;
+.footer .box-container .box .input{
+  width: 90%;
   height: 2.5rem;
   margin:.7rem 0;
   padding:1rem;
